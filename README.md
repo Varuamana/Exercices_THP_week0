@@ -1,1 +1,1 @@
-# Exercices_THP_week0
+Ce fichier contient les exercices de la semaine 0 de THP
